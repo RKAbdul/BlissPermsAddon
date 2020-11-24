@@ -32,7 +32,7 @@ namespace JackMD\ScoreHud\Addons
 		
 			return [
 			  		"{prefix}" => $this->blissperms->getPrefix($player),
-			  		"{sufix}" => $this->blissperms->getSuffix($player),
+			  		"{suffix}" => $this->blissperms->getSuffix($player),
 			  		"{rank}" => $this->blissperms->getRank(strtolower($player->getName())),
 			  		"{tier}" => $this->blissperms->getTier(strtolower($player->getName())),
 			  		"{group}" => $this->blissperms->getGroup(strtolower($player->getName()))
