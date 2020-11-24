@@ -1,5 +1,5 @@
 ### BlissPermsAddon
-ScoreHud addon for a pocketmine plugin [BlissPerms](https://github.com/XenoServers/BlissPerms).
+[ScoreHud](https://poggit.pmmp.io/p/ScoreHud/) addon for a pocketmine plugin [BlissPerms](https://github.com/XenoServers/BlissPerms).
 ### Available Tags
 | Tag | Description |
 |---------|---------|
